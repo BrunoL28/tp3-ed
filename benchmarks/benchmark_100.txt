@@ -1,0 +1,2 @@
+Tamanho	InserçãoAVL(ms)	InserçãoLinear(ms)	Ordenação(ms)
+100	0.012004	0.004553	0.003688
